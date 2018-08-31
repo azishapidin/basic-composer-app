@@ -1,0 +1,11 @@
+{
+    "name": "azishapidin/composer-app",
+    "description": "Just simple app with composer.",
+    "authors": [
+        {
+            "name": "Azis Hapidin",
+            "email": "azishapidin@gmail.com"
+        }
+    ],
+    "require": {}
+}
